@@ -19,5 +19,6 @@
     * Practical Deep Learning for Coders: https://fastai.github.io/fastbook2e/
     * GitHub: https://github.com/fastai/fastbook?tab=readme-ov-file
 
-
 * fastbook: https://pypi.org/project/fastbook/
+
+* AIQuizzes: https://aiquizzes.com/knowledgebase
